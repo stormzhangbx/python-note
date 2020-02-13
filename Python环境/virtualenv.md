@@ -2,7 +2,7 @@
 
 ## 一 安装
 
-在安装Python3会自动安装pipy，pipy命令在`D:\Python38\Scripts`目录下（该目录已经添加到了环境变量path中）
+通过pip
 
 `pip3 install virtualenv`
 
@@ -30,4 +30,4 @@ virtualenv包会被安装到`D:\Python38\Lib\site-packages`目录下，同时`vi
 
 如果用PyCharm打开virtualenvdemo项目，右键项目virtualenvdemo -> Open in Terminal，打开PyCharm终端，会自动进入venv环境
 
-
+[Linux 如何使用 virtualenv](https://www.cnblogs.com/yanzhi-1996/articles/11100765.html)
